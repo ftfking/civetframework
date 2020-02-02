@@ -7,10 +7,10 @@ Require GIT and Nodejs.
 ### 2. npm install
 ### 3. Run Civet!
 
-##Create Service Automically
+## Create Service Automically
 Service in Civet Framework is Pack of Model,Controller,Route with defined name.
 
-### node civet-run create:service <Your Service Name/>
+### node civet-run create:service <Your Service Name>
 
 ## Run Civet
 
