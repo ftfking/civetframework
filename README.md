@@ -1,7 +1,7 @@
 # Civet Framework
 _LTS Alpha-1_
 
-##How To Start
+## How To Start
 Require GIT and Nodejs.
 ### 1. git clone https://github.com/fauzan121002/civetframework.git
 ### 2. npm install
@@ -12,7 +12,7 @@ Service in Civet Framework is Pack of Model,Controller,Route with defined name.
 
 ### node civet-run create:service <Your Service Name/>
 
-##Run Civet
+## Run Civet
 
 ### npm run services
 
