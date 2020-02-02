@@ -1,4 +1,4 @@
-const AdminModel = require('../models/Admin')
+const AdminModel = require('../models/AdminModel')
 
 module.exports = {
     get : (req,res,next) => {
