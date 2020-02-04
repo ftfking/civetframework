@@ -10,7 +10,7 @@ Require GIT and Nodejs.
 ## Create Service Automically
 Service in Civet Framework is Pack of Model,Controller,Route with defined name.
 
-### node civet-run create:service <Your Service Name>
+### node civet-run create:service [Your Service Name]
 
 ## Run Civet
 
